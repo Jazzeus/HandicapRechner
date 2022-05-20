@@ -1,5 +1,5 @@
 # HandicapRechner
-### A simple Handicap Calculator for your console.
+### A simple Golf Handicap Calculator for your console.
 ***
 > ### **Send me a DM via** <br>
 > ****
